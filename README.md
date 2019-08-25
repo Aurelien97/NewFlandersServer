@@ -25,7 +25,7 @@ Nu is de server up to date en kan je hem runnen
 ## De server afsluiten
 Om de server af te sluiten ga je naar de shell waar de server draait en typ je
 ```
-exit
+stop
 ```
 
 Daarna open je een shell in de map van de server en voer je volgende commando's uit:
