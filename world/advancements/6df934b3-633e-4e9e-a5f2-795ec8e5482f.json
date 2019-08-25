@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-08-25 22:12:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-24 17:52:40 +0200"
@@ -316,6 +322,7 @@
       "cooked_porkchop": "2019-08-24 21:41:46 +0200",
       "cooked_mutton": "2019-08-24 18:06:00 +0200",
       "sweet_berries": "2019-08-24 19:12:06 +0200",
+      "cooked_cod": "2019-08-25 21:44:50 +0200",
       "bread": "2019-08-24 19:53:37 +0200"
     },
     "done": false
@@ -449,6 +456,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-08-24 21:05:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2019-08-25 22:12:43 +0200"
     },
     "done": true
   },
@@ -705,6 +718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-08-25 22:18:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-08-24 21:17:31 +0200"
@@ -724,7 +743,8 @@
       "minecraft:spider": "2019-08-24 17:59:14 +0200",
       "minecraft:creeper": "2019-08-24 21:05:42 +0200",
       "minecraft:phantom": "2019-08-24 21:43:36 +0200",
-      "minecraft:zombie": "2019-08-24 18:50:12 +0200"
+      "minecraft:zombie": "2019-08-24 18:50:12 +0200",
+      "minecraft:zombie_villager": "2019-08-25 22:17:27 +0200"
     },
     "done": false
   },
@@ -752,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-08-25 22:18:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2019-08-24 18:58:14 +0200"
@@ -773,6 +799,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-24 20:53:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2019-08-25 22:12:43 +0200"
     },
     "done": true
   },
@@ -863,6 +895,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-24 18:38:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-08-25 22:18:19 +0200"
     },
     "done": true
   },
@@ -1001,6 +1039,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-08-24 18:40:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-08-25 22:37:16 +0200"
     },
     "done": true
   },
@@ -1265,10 +1309,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-08-24 17:48:59 +0200",
+      "minecraft:mountains": "2019-08-25 22:10:27 +0200",
       "minecraft:taiga": "2019-08-24 17:54:25 +0200",
       "minecraft:taiga_hills": "2019-08-24 19:09:47 +0200",
       "minecraft:birch_forest": "2019-08-24 17:50:04 +0200",
-      "minecraft:river": "2019-08-24 17:50:02 +0200"
+      "minecraft:river": "2019-08-24 17:50:02 +0200",
+      "minecraft:wooded_mountains": "2019-08-25 22:14:19 +0200",
+      "minecraft:wooded_hills": "2019-08-25 22:27:07 +0200",
+      "minecraft:swamp": "2019-08-25 22:29:20 +0200",
+      "minecraft:plains": "2019-08-25 22:16:22 +0200"
     },
     "done": false
   },
@@ -1293,6 +1342,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-08-24 17:55:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-08-25 21:59:13 +0200"
     },
     "done": true
   },
@@ -1359,6 +1414,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-08-24 17:50:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-08-25 22:12:56 +0200"
     },
     "done": true
   },
@@ -1443,6 +1504,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2019-08-24 18:04:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-08-25 22:12:43 +0200"
     },
     "done": true
   },

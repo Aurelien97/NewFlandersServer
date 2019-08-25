@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2019-08-25 21:42:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2019-08-24 23:24:40 +0200"
@@ -122,6 +128,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2019-08-24 18:52:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-08-25 21:15:36 +0200"
     },
     "done": true
   },
@@ -188,6 +200,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-24 20:44:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-08-25 21:44:52 +0200"
     },
     "done": true
   },
@@ -446,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2019-08-25 21:59:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-08-24 18:01:34 +0200"
@@ -616,6 +640,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2019-08-25 21:27:06 +0200",
       "minecraft:cow": "2019-08-24 23:06:18 +0200"
     },
     "done": false
@@ -779,6 +804,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-08-24 17:55:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-08-25 21:59:48 +0200"
     },
     "done": true
   },
@@ -1062,6 +1093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2019-08-25 21:42:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2019-08-24 18:23:02 +0200",
@@ -1217,6 +1254,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-08-24 21:31:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-08-25 21:49:25 +0200"
     },
     "done": true
   },
@@ -1744,13 +1787,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2019-08-25 21:42:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-08-24 17:49:19 +0200",
       "minecraft:mountains": "2019-08-24 21:25:37 +0200",
       "minecraft:taiga": "2019-08-24 21:23:21 +0200",
+      "minecraft:taiga_hills": "2019-08-25 21:48:11 +0200",
       "minecraft:birch_forest": "2019-08-24 17:50:16 +0200",
+      "minecraft:warm_ocean": "2019-08-25 21:57:23 +0200",
+      "minecraft:deep_lukewarm_ocean": "2019-08-25 21:55:43 +0200",
+      "minecraft:beach": "2019-08-25 21:55:50 +0200",
+      "minecraft:dark_forest": "2019-08-25 22:16:44 +0200",
       "minecraft:river": "2019-08-24 17:50:12 +0200",
+      "minecraft:lukewarm_ocean": "2019-08-25 21:55:51 +0200",
+      "minecraft:wooded_mountains": "2019-08-25 22:14:20 +0200",
+      "minecraft:wooded_hills": "2019-08-25 22:09:44 +0200",
+      "minecraft:stone_shore": "2019-08-25 21:54:21 +0200",
+      "minecraft:swamp": "2019-08-25 22:29:17 +0200",
       "minecraft:plains": "2019-08-24 19:08:13 +0200"
     },
     "done": false
@@ -1893,6 +1952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-08-25 21:15:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-08-24 17:55:57 +0200"
@@ -1914,6 +1979,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2019-08-24 18:25:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2019-08-25 21:59:48 +0200"
     },
     "done": true
   },
@@ -2049,6 +2120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2019-08-25 21:42:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-08-24 18:01:34 +0200"
@@ -2070,6 +2147,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_the_recipe": "2019-08-24 18:10:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2019-08-25 21:42:41 +0200"
     },
     "done": true
   },
