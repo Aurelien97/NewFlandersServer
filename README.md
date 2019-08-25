@@ -38,3 +38,7 @@ Dan:
 git push -u origin master
 ```
 Op die manier staan de veranderingen aan de server online en kan iedereen de laatste versie downloaden! :)
+
+
+## Spelen op de server
+Open Hamachi en kopieer je IPv4-adres. In Minecraft, direct connect naar die IPv4-adres. Congratz, you're in ;)
