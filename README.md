@@ -1,5 +1,6 @@
 # NewFlandersServer
-
+## First of all, Git installeren
+Go here: https://git-scm.com/download/win
 ## Om de server zelf te runnen (eerste keer)
 Open een cmd of Powershell (of andere, your pick) venster in de map waar je de server wenst op te slaan
 Voor cmd/Powershell:
