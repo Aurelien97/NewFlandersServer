@@ -1,0 +1,124 @@
+[22:42:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:42:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:42:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:42:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:42:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:42:07] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[22:42:07] [Server thread/INFO]: Loading properties
+[22:42:07] [Server thread/INFO]: Default game type: SURVIVAL
+[22:42:07] [Server thread/INFO]: Generating keypair
+[22:42:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:42:08] [Server thread/INFO]: Using default channel type
+[22:42:14] [Server thread/INFO]: Preparing level "world"
+[22:42:14] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:42:15] [Server thread/INFO]: Loaded 6 recipes
+[22:42:15] [Server thread/INFO]: Loaded 811 advancements
+[22:42:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:42:16] [Server thread/INFO]: Preparing spawn area: 0%
+[22:42:16] [Server thread/INFO]: Preparing spawn area: 0%
+[22:42:16] [Server thread/INFO]: Preparing spawn area: 0%
+[22:42:17] [Server thread/INFO]: Time elapsed: 1530 ms
+[22:42:17] [Server thread/INFO]: Done (2.679s)! For help, type "help"
+[22:42:33] [User Authenticator #1/INFO]: UUID of player OneTrueKill is 610ce283-3b23-4fc0-95f2-4b47281e950f
+[22:42:33] [Server thread/INFO]: OneTrueKill[/2620:9b:0:0:0:0:1930:a0f5:50279] logged in with entity id 219 at (276.7887549307576, 63.0, -87.0225702086844)
+[22:42:33] [Server thread/INFO]: OneTrueKill joined the game
+[22:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[22:43:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@49dc4f0f[id=<null>,name=GodofThunderr,properties={},legacy=false] (/25.68.132.173:63083) lost connection: Disconnected
+[22:43:24] [User Authenticator #2/INFO]: UUID of player jeroentrachet is 94e36829-b1e0-4b5e-96ec-d108422a5da9
+[22:43:25] [Server thread/INFO]: jeroentrachet[/25.56.210.105:53643] logged in with entity id 350 at (180.08613675341533, 62.07326525652498, -57.65950313326219)
+[22:43:25] [Server thread/INFO]: jeroentrachet joined the game
+[22:43:25] [User Authenticator #3/INFO]: UUID of player Walloonator is 93b3b92f-d98f-43ae-a694-6b9468d7ecb6
+[22:43:25] [Server thread/INFO]: Walloonator[/25.31.172.182:52101] logged in with entity id 387 at (264.88422748739845, 63.0, -97.8614742039746)
+[22:43:25] [Server thread/INFO]: Walloonator joined the game
+[22:43:35] [Server thread/WARN]: Boat moved wrongly!
+[22:43:35] [Server thread/WARN]: Boat moved wrongly!
+[22:43:35] [Server thread/WARN]: Boat moved wrongly!
+[22:43:47] [Server thread/WARN]: Boat moved wrongly!
+[22:44:07] [User Authenticator #4/INFO]: UUID of player GodofThunderr is 6df934b3-633e-4e9e-a5f2-795ec8e5482f
+[22:44:08] [Server thread/INFO]: GodofThunderr[/25.68.132.173:63097] logged in with entity id 662 at (234.99710832490206, 63.0, -84.98432163355656)
+[22:44:08] [Server thread/INFO]: GodofThunderr joined the game
+[22:44:17] [Server thread/INFO]: jeroentrachet lost connection: Disconnected
+[22:44:17] [Server thread/INFO]: jeroentrachet left the game
+[22:44:59] [Server thread/INFO]: Walloonator has made the advancement [Sweet Dreams]
+[22:45:11] [User Authenticator #5/INFO]: UUID of player jeroentrachet is 94e36829-b1e0-4b5e-96ec-d108422a5da9
+[22:45:12] [Server thread/INFO]: jeroentrachet[/25.56.210.105:53648] logged in with entity id 739 at (39.37620137442155, 61.96274593944822, -179.3125)
+[22:45:12] [Server thread/INFO]: jeroentrachet joined the game
+[22:45:35] [Server thread/WARN]: Boat moved wrongly!
+[22:47:29] [Server thread/WARN]: jeroentrachet moved too quickly! 0.778029258751161,0.0,9.98401311381582
+[22:47:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10494ms or 209 ticks behind
+[22:49:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[22:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[22:50:14] [Server thread/INFO]: Walloonator has made the advancement [We Need to Go Deeper]
+[22:50:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5809ms or 116 ticks behind
+[22:51:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[22:52:48] [Server thread/WARN]: jeroentrachet moved too quickly! 10.158663699386238,-1.2315237975870161,0.24559851093628993
+[22:52:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7224ms or 144 ticks behind
+[22:55:17] [Server thread/INFO]: GodofThunderr fell from a high place
+[22:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[23:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5720ms or 114 ticks behind
+[23:06:18] [Server thread/INFO]: jeroentrachet has made the advancement [The Parrots and the Bats]
+[23:06:48] [Server thread/INFO]: Walloonator has made the advancement [Fishy Business]
+[23:11:37] [Server thread/WARN]: jeroentrachet moved too quickly! 5.620087895832398,1.0013359791121417,-8.504395097597182
+[23:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[23:13:04] [Server thread/WARN]: OneTrueKill moved too quickly! 7.589729691770714,1.5800000131130219,6.711244367127388
+[23:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4622ms or 92 ticks behind
+[23:16:17] [Server thread/INFO]: OneTrueKill burned to death
+[23:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[23:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[23:18:15] [Server thread/WARN]: jeroentrachet moved too quickly! -1.776966792174278,-0.23152379758701613,-10.081795936552638
+[23:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6156ms or 123 ticks behind
+[23:22:26] [Server thread/INFO]: GodofThunderr lost connection: Disconnected
+[23:22:26] [Server thread/INFO]: GodofThunderr left the game
+[23:22:57] [Server thread/INFO]: OneTrueKill has made the advancement [A Terrible Fortress]
+[23:23:23] [Server thread/WARN]: jeroentrachet moved too quickly! 6.808362373726624,1.1661092609382138,7.33135336682497
+[23:23:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8242ms or 164 ticks behind
+[23:24:53] [Server thread/INFO]: Walloonator was slain by Cave Spider
+[23:25:43] [Server thread/INFO]: OneTrueKill fell from a high place
+[23:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[23:28:33] [Server thread/WARN]: OneTrueKill moved too quickly! 9.22916448270712,-0.07840000152587834,-3.8908653239313367
+[23:28:33] [Server thread/WARN]: jeroentrachet moved too quickly! -6.742217634326693,1.9215999984741217,-7.223450762829202
+[23:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8036ms or 160 ticks behind
+[23:28:33] [Server thread/WARN]: jeroentrachet moved wrongly!
+[23:30:37] [Server thread/INFO]: Walloonator has made the advancement [Acquire Hardware]
+[23:33:41] [Server thread/WARN]: OneTrueKill moved too quickly! -9.757631187235518,0.0,-2.87246854742358
+[23:33:41] [Server thread/WARN]: Walloonator moved too quickly! -1.345255132497698,0.0,9.940255292671722
+[23:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8331ms or 166 ticks behind
+[23:36:41] [Server thread/INFO]: OneTrueKill has completed the challenge [Return to Sender]
+[23:38:14] [Server thread/INFO]: Walloonator was slain by Cave Spider
+[23:38:50] [Server thread/WARN]: jeroentrachet moved too quickly! 4.2919155302832905,-1.5358406250445569,9.075145200997298
+[23:38:50] [Server thread/WARN]: Walloonator moved too quickly! -8.879796003308059,0.0,4.7972136990505305
+[23:38:50] [Server thread/WARN]: OneTrueKill moved too quickly! -5.006305414273527,2.0,-8.446211370715545
+[23:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9004ms or 180 ticks behind
+[23:42:20] [Server thread/INFO]: Unknown command
+[23:42:20] [Server thread/INFO]: t/tp OneTrueKill Walloonator<--[HERE]
+[23:42:26] [Server thread/INFO]: Unknown command
+[23:42:26] [Server thread/INFO]: t/tp OneTrueKill Walloonator<--[HERE]
+[23:42:32] [Server thread/INFO]: Teleported OneTrueKill to Walloonator
+[23:43:48] [Server thread/INFO]: jeroentrachet lost connection: Disconnected
+[23:43:48] [Server thread/INFO]: jeroentrachet left the game
+[23:43:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3640ms or 72 ticks behind
+[23:47:19] [Server thread/INFO]: OneTrueKill has made the advancement [The Parrots and the Bats]
+[23:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3040ms or 60 ticks behind
+[23:50:14] [Server thread/INFO]: Walloonator was shot by Skeleton
+[23:51:48] [Server thread/INFO]: Walloonator was shot by Skeleton
+[23:52:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16274, l='world', x=258.50, y=63.00, z=-66.50]
+[23:52:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16274, l='world', x=258.50, y=63.00, z=-66.50]
+[23:54:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16609, l='world', x=258.50, y=63.00, z=-66.50]
+[23:54:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16609, l='world', x=258.50, y=63.00, z=-66.50]
+[23:54:29] [Server thread/INFO]: Walloonator lost connection: Disconnected
+[23:54:29] [Server thread/INFO]: Walloonator left the game
+[23:54:55] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
+[23:54:55] [Server thread/INFO]: OneTrueKill left the game
+[23:55:03] [Server thread/INFO]: Stopping the server
+[23:55:03] [Server thread/INFO]: Stopping server
+[23:55:03] [Server thread/INFO]: Saving players
+[23:55:03] [Server thread/INFO]: Saving worlds
+[23:55:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:55:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:55:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:55:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:55:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:55:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:55:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:55:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:55:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
