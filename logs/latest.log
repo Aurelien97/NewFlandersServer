@@ -1,15 +1,52 @@
-[00:00:14] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
-[00:00:14] [Server thread/INFO]: OneTrueKill left the game
-[00:01:11] [Server thread/INFO]: Stopping the server
-[00:01:11] [Server thread/INFO]: Stopping server
-[00:01:11] [Server thread/INFO]: Saving players
-[00:01:11] [Server thread/INFO]: Saving worlds
-[00:01:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:01:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:01:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:31:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:31:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:31:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:31:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:31:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:31:22] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[14:31:22] [Server thread/INFO]: Loading properties
+[14:31:22] [Server thread/INFO]: Default game type: SURVIVAL
+[14:31:22] [Server thread/INFO]: Generating keypair
+[14:31:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:31:22] [Server thread/INFO]: Using default channel type
+[14:31:25] [Server thread/INFO]: Preparing level "world"
+[14:31:25] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:31:26] [Server thread/INFO]: Loaded 6 recipes
+[14:31:26] [Server thread/INFO]: Loaded 811 advancements
+[14:31:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:31:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:31:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:31:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:31:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:31:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:31:30] [Server thread/INFO]: Preparing spawn area: 10%
+[14:31:30] [Server thread/INFO]: Time elapsed: 2801 ms
+[14:31:30] [Server thread/INFO]: Done (5.336s)! For help, type "help"
+[14:33:04] [User Authenticator #1/INFO]: UUID of player Walloonator is 93b3b92f-d98f-43ae-a694-6b9468d7ecb6
+[14:33:05] [Server thread/INFO]: Walloonator[/25.31.172.182:49640] logged in with entity id 214 at (264.80355408080254, 64.0, -106.0832986765901)
+[14:33:05] [Server thread/INFO]: Walloonator joined the game
+[14:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5373ms or 107 ticks behind
+[14:37:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/866, l='world', x=257.65, y=62.00, z=-118.31]
+[15:02:51] [Server thread/INFO]: Walloonator was slain by Cave Spider
+[15:21:12] [Server thread/INFO]: Walloonator lost connection: Disconnected
+[15:21:12] [Server thread/INFO]: Walloonator left the game
+[15:22:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a76a15[id=<null>,name=Walloonator,properties={},legacy=false] (/25.31.172.182:55871) lost connection: Disconnected
+[15:22:46] [User Authenticator #2/INFO]: UUID of player Walloonator is 93b3b92f-d98f-43ae-a694-6b9468d7ecb6
+[15:22:46] [Server thread/INFO]: Walloonator[/25.31.172.182:55937] logged in with entity id 5885 at (224.2816862191807, 29.0, 112.40748232924754)
+[15:22:46] [Server thread/INFO]: Walloonator joined the game
+[16:09:12] [Server thread/INFO]: Walloonator has made the advancement [A Seedy Place]
+[16:32:30] [Server thread/INFO]: Walloonator lost connection: Disconnected
+[16:32:30] [Server thread/INFO]: Walloonator left the game
+[16:32:36] [Server thread/INFO]: Stopping the server
+[16:32:36] [Server thread/INFO]: Stopping server
+[16:32:36] [Server thread/INFO]: Saving players
+[16:32:36] [Server thread/INFO]: Saving worlds
+[16:32:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:32:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:32:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:32:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:32:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:32:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:32:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:32:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:32:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
