@@ -1,18 +1,13 @@
-[00:18:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/56419, l='world', x=250.61, y=60.00, z=-119.60]
-[00:26:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/57432, l='world', x=250.20, y=60.00, z=-120.74]
-[00:32:29] [Server thread/INFO]: OneTrueKill fell from a high place
-[00:33:27] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
-[00:33:27] [Server thread/INFO]: OneTrueKill left the game
-[00:39:36] [Server thread/INFO]: Stopping the server
-[00:39:36] [Server thread/INFO]: Stopping server
-[00:39:36] [Server thread/INFO]: Saving players
-[00:39:36] [Server thread/INFO]: Saving worlds
-[00:39:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:39:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:39:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:39:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:39:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:39:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:39:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:39:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:39:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:08:50] [Server thread/INFO]: Stopping the server
+[00:08:50] [Server thread/INFO]: Stopping server
+[00:08:50] [Server thread/INFO]: Saving players
+[00:08:50] [Server thread/INFO]: Saving worlds
+[00:08:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:08:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:08:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
