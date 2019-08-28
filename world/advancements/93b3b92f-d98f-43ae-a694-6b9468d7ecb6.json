@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-08-28 16:12:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-26 16:13:16 +0200"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2019-08-24 22:50:14 +0200"
@@ -104,6 +116,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-24 17:56:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-28 16:12:41 +0200"
     },
     "done": true
   },
@@ -224,6 +242,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-26 16:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-08-28 16:12:41 +0200"
     },
     "done": true
   },
@@ -359,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2019-08-28 15:56:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-08-24 18:19:45 +0200",
@@ -383,6 +413,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2019-08-25 23:29:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-08-28 16:06:49 +0200"
     },
     "done": true
   },
@@ -431,6 +467,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2019-08-24 19:55:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
     },
     "done": true
   },
@@ -530,6 +572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-24 17:54:43 +0200"
@@ -560,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-24 20:12:06 +0200"
@@ -569,6 +623,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-24 17:56:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2019-08-28 16:06:38 +0200"
     },
     "done": true
   },
@@ -903,6 +963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-08-28 16:12:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2019-08-26 22:26:16 +0200"
@@ -927,6 +993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-08-28 12:10:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-24 20:12:06 +0200"
@@ -943,7 +1015,9 @@
       "minecraft:creeper": "2019-08-24 19:22:17 +0200",
       "minecraft:slime": "2019-08-26 21:27:31 +0200",
       "minecraft:phantom": "2019-08-26 20:49:57 +0200",
+      "minecraft:witch": "2019-08-28 12:10:25 +0200",
       "minecraft:cave_spider": "2019-08-24 23:17:00 +0200",
+      "minecraft:enderman": "2019-08-28 12:00:56 +0200",
       "minecraft:zombie": "2019-08-24 18:09:16 +0200",
       "minecraft:drowned": "2019-08-26 20:49:06 +0200",
       "minecraft:zombie_villager": "2019-08-25 22:13:18 +0200"
@@ -1037,6 +1111,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2019-08-26 18:08:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-28 16:12:41 +0200"
     },
     "done": true
   },
@@ -1169,6 +1249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-24 17:56:58 +0200"
@@ -1226,6 +1312,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2019-08-26 20:53:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2019-08-28 16:12:41 +0200"
     },
     "done": true
   },
@@ -1349,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-08-28 23:52:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2019-08-24 22:50:58 +0200"
@@ -1463,6 +1561,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2019-08-28 15:55:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-08-28 16:12:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-08-24 18:11:29 +0200"
@@ -1487,6 +1597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-08-28 12:10:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-08-25 22:22:48 +0200"
@@ -1496,6 +1612,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2019-08-26 21:27:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
     },
     "done": true
   },
@@ -1535,6 +1657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2019-08-25 22:05:26 +0200"
@@ -1544,6 +1672,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2019-08-24 18:41:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
     },
     "done": true
   },
@@ -1595,9 +1729,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-08-26 20:53:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-28 16:12:41 +0200"
     },
     "done": true
   },
@@ -1743,13 +1889,18 @@
       "minecraft:mountains": "2019-08-26 21:05:44 +0200",
       "minecraft:taiga": "2019-08-24 18:26:54 +0200",
       "minecraft:deep_cold_ocean": "2019-08-26 21:52:35 +0200",
+      "minecraft:taiga_hills": "2019-08-28 15:45:48 +0200",
       "minecraft:birch_forest": "2019-08-24 17:51:45 +0200",
+      "minecraft:warm_ocean": "2019-08-28 15:49:47 +0200",
+      "minecraft:deep_lukewarm_ocean": "2019-08-28 15:49:39 +0200",
       "minecraft:beach": "2019-08-26 21:33:34 +0200",
       "minecraft:dark_forest": "2019-08-26 21:11:12 +0200",
       "minecraft:river": "2019-08-24 17:51:42 +0200",
+      "minecraft:lukewarm_ocean": "2019-08-28 15:49:19 +0200",
       "minecraft:birch_forest_hills": "2019-08-26 21:13:53 +0200",
       "minecraft:wooded_mountains": "2019-08-26 21:17:29 +0200",
       "minecraft:wooded_hills": "2019-08-26 19:53:13 +0200",
+      "minecraft:stone_shore": "2019-08-28 15:49:16 +0200",
       "minecraft:swamp": "2019-08-26 21:14:18 +0200",
       "minecraft:plains": "2019-08-24 23:40:43 +0200"
     },
@@ -1860,6 +2011,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2019-08-24 19:40:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2019-08-28 15:56:55 +0200"
     },
     "done": true
   },
@@ -1986,6 +2143,18 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2019-08-24 23:30:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-28 16:12:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2019-08-28 16:06:38 +0200"
     },
     "done": true
   },

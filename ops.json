@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "610ce283-3b23-4fc0-95f2-4b47281e950f",
+    "name": "OneTrueKill",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

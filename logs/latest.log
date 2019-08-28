@@ -1,13 +1,46 @@
-[00:08:50] [Server thread/INFO]: Stopping the server
-[00:08:50] [Server thread/INFO]: Stopping server
-[00:08:50] [Server thread/INFO]: Saving players
-[00:08:50] [Server thread/INFO]: Saving worlds
-[00:08:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:08:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:08:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:02:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/146697, l='world', x=250.60, y=60.00, z=-121.17]
+[00:07:32] [Server thread/INFO]: [OneTrueKill: Killed Iron Golem]
+[00:07:34] [Server thread/INFO]: [OneTrueKill: Set the time to 0]
+[00:11:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/148029, l='world', x=250.20, y=60.00, z=-120.18]
+[00:15:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/148615, l='world', x=251.17, y=60.00, z=-119.20]
+[00:17:39] [Server thread/INFO]: [OneTrueKill: Set the time to 0]
+[00:18:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/149067, l='world', x=250.20, y=60.00, z=-119.61]
+[00:18:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/149148, l='world', x=250.59, y=60.00, z=-119.20]
+[00:21:41] [Server thread/INFO]: [OneTrueKill: Killed 2 entities]
+[00:22:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/149915, l='world', x=251.80, y=60.00, z=-120.87]
+[00:23:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/150113, l='world', x=251.80, y=60.00, z=-119.83]
+[00:25:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/150473, l='world', x=251.80, y=60.00, z=-120.63]
+[00:29:12] [Server thread/INFO]: [OneTrueKill: Set the time to 0]
+[00:30:55] [Server thread/INFO]: [OneTrueKill: Killed 2 entities]
+[00:39:12] [Server thread/INFO]: [OneTrueKill: Set own game mode to Survival Mode]
+[00:40:07] [Server thread/INFO]: [OneTrueKill: Set own game mode to Creative Mode]
+[00:41:40] [Server thread/INFO]: [OneTrueKill: Set the time to 0]
+[00:42:20] [Server thread/INFO]: [OneTrueKill: Set own game mode to Survival Mode]
+[00:43:09] [Server thread/INFO]: [OneTrueKill: Set the weather to clear]
+[00:44:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/154303, l='world', x=251.80, y=60.00, z=-121.17]
+[00:45:19] [Server thread/INFO]: [OneTrueKill: Set own game mode to Creative Mode]
+[00:47:01] [Server thread/INFO]: [OneTrueKill: Set own game mode to Survival Mode]
+[00:48:18] [Server thread/INFO]: [OneTrueKill: Set the weather to clear]
+[00:48:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/155055, l='world', x=251.17, y=60.00, z=-119.20]
+[00:49:00] [Server thread/INFO]: [OneTrueKill: Set the time to 0]
+[00:49:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/155303, l='world', x=250.20, y=60.00, z=-120.55]
+[00:54:22] [Server thread/INFO]: [OneTrueKill: Set the time to 0]
+[00:54:28] [Server thread/INFO]: [OneTrueKill: Set the weather to clear]
+[00:55:44] [Server thread/WARN]: OneTrueKill moved wrongly!
+[00:55:53] [Server thread/INFO]: [OneTrueKill: Set own game mode to Creative Mode]
+[00:56:17] [Server thread/INFO]: [OneTrueKill: Set own game mode to Survival Mode]
+[00:56:30] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
+[00:56:30] [Server thread/INFO]: OneTrueKill left the game
+[01:20:08] [Server thread/INFO]: Stopping the server
+[01:20:08] [Server thread/INFO]: Stopping server
+[01:20:08] [Server thread/INFO]: Saving players
+[01:20:08] [Server thread/INFO]: Saving worlds
+[01:20:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:20:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:20:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
