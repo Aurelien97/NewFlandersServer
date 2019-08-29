@@ -596,12 +596,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-08-24 21:15:55 +0200",
+      "minecraft:blaze": "2019-08-29 18:47:01 +0200",
       "minecraft:skeleton": "2019-08-24 18:14:58 +0200",
       "minecraft:ghast": "2019-08-26 21:30:04 +0200",
       "minecraft:magma_cube": "2019-08-29 15:44:37 +0200",
       "minecraft:spider": "2019-08-24 18:02:12 +0200",
       "minecraft:creeper": "2019-08-24 19:46:28 +0200",
       "minecraft:phantom": "2019-08-26 21:49:35 +0200",
+      "minecraft:wither_skeleton": "2019-08-29 18:36:01 +0200",
       "minecraft:zombie": "2019-08-24 17:58:56 +0200"
     },
     "done": false
@@ -821,6 +823,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2019-08-29 14:01:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-29 18:35:43 +0200"
     },
     "done": true
   },
@@ -1196,6 +1204,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-08-24 22:55:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-08-29 18:20:40 +0200"
     },
     "done": true
   },
@@ -2578,6 +2592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-29 18:35:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-08-24 18:52:21 +0200"
@@ -2611,6 +2631,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-08-24 23:06:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-08-29 18:35:43 +0200"
     },
     "done": true
   },
