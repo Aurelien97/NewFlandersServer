@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-08-29 15:29:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-24 20:12:06 +0200"
@@ -122,6 +128,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-28 16:12:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2019-08-29 10:37:35 +0200"
     },
     "done": true
   },
@@ -236,6 +248,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-24 20:12:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-29 15:29:46 +0200"
     },
     "done": true
   },
@@ -395,6 +413,7 @@
       "cooked_mutton": "2019-08-25 22:35:56 +0200",
       "sweet_berries": "2019-08-24 19:18:08 +0200",
       "tropical_fish": "2019-08-24 23:19:13 +0200",
+      "potato": "2019-08-29 13:45:53 +0200",
       "cooked_cod": "2019-08-24 23:12:13 +0200",
       "bread": "2019-08-24 19:34:24 +0200",
       "melon_slice": "2019-08-26 18:54:31 +0200",
@@ -443,6 +462,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-08-24 23:30:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-08-29 14:51:57 +0200"
     },
     "done": true
   },
@@ -1010,12 +1035,15 @@
       "minecraft:blaze": "2019-08-25 23:10:57 +0200",
       "minecraft:skeleton": "2019-08-24 17:56:31 +0200",
       "minecraft:zombie_pigman": "2019-08-25 23:12:49 +0200",
+      "minecraft:ghast": "2019-08-29 11:50:25 +0200",
       "minecraft:magma_cube": "2019-08-25 22:59:30 +0200",
       "minecraft:spider": "2019-08-24 18:23:08 +0200",
       "minecraft:creeper": "2019-08-24 19:22:17 +0200",
       "minecraft:slime": "2019-08-26 21:27:31 +0200",
       "minecraft:phantom": "2019-08-26 20:49:57 +0200",
       "minecraft:witch": "2019-08-28 12:10:25 +0200",
+      "minecraft:wither_skeleton": "2019-08-29 15:29:10 +0200",
+      "minecraft:husk": "2019-08-29 12:31:28 +0200",
       "minecraft:cave_spider": "2019-08-24 23:17:00 +0200",
       "minecraft:enderman": "2019-08-28 12:00:56 +0200",
       "minecraft:zombie": "2019-08-24 18:09:16 +0200",
@@ -1180,6 +1208,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-08-24 18:07:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-29 15:29:46 +0200"
     },
     "done": true
   },
@@ -1417,6 +1451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-29 15:29:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-08-24 19:55:36 +0200"
@@ -1600,6 +1640,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2019-08-28 12:10:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-08-29 10:57:08 +0200"
     },
     "done": true
   },
@@ -1801,6 +1847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-29 15:29:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_leggings": "2019-08-25 22:05:26 +0200",
@@ -1888,11 +1940,15 @@
       "minecraft:forest": "2019-08-24 17:09:36 +0200",
       "minecraft:mountains": "2019-08-26 21:05:44 +0200",
       "minecraft:taiga": "2019-08-24 18:26:54 +0200",
+      "minecraft:desert_hills": "2019-08-29 10:37:28 +0200",
       "minecraft:deep_cold_ocean": "2019-08-26 21:52:35 +0200",
       "minecraft:taiga_hills": "2019-08-28 15:45:48 +0200",
+      "minecraft:desert": "2019-08-29 10:37:16 +0200",
+      "minecraft:deep_frozen_ocean": "2019-08-29 10:36:39 +0200",
       "minecraft:birch_forest": "2019-08-24 17:51:45 +0200",
       "minecraft:warm_ocean": "2019-08-28 15:49:47 +0200",
       "minecraft:deep_lukewarm_ocean": "2019-08-28 15:49:39 +0200",
+      "minecraft:savanna_plateau": "2019-08-29 10:51:46 +0200",
       "minecraft:beach": "2019-08-26 21:33:34 +0200",
       "minecraft:dark_forest": "2019-08-26 21:11:12 +0200",
       "minecraft:river": "2019-08-24 17:51:42 +0200",
@@ -1902,6 +1958,7 @@
       "minecraft:wooded_hills": "2019-08-26 19:53:13 +0200",
       "minecraft:stone_shore": "2019-08-28 15:49:16 +0200",
       "minecraft:swamp": "2019-08-26 21:14:18 +0200",
+      "minecraft:savanna": "2019-08-29 10:49:37 +0200",
       "minecraft:plains": "2019-08-24 23:40:43 +0200"
     },
     "done": false
@@ -1915,6 +1972,18 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-26 16:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-08-29 10:43:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-08-29 15:29:46 +0200"
     },
     "done": true
   },
@@ -2056,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-08-29 12:23:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-08-24 17:50:56 +0200"
@@ -2101,6 +2176,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-26 15:23:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-08-29 15:29:46 +0200"
     },
     "done": true
   },
@@ -2167,6 +2248,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2019-08-26 21:08:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-08-29 12:23:49 +0200"
     },
     "done": true
   },
