@@ -1,150 +1,53 @@
-[18:00:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:00:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:00:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:00:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:00:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:00:12] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[18:00:12] [Server thread/INFO]: Loading properties
-[18:00:12] [Server thread/INFO]: Default game type: SURVIVAL
-[18:00:12] [Server thread/INFO]: Generating keypair
-[18:00:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:00:12] [Server thread/INFO]: Using default channel type
-[18:00:16] [Server thread/INFO]: Preparing level "world"
-[18:00:16] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:00:16] [Server thread/INFO]: Loaded 6 recipes
-[18:00:17] [Server thread/INFO]: Loaded 811 advancements
-[18:00:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:00:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:00:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:00:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:00:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:00:19] [Server thread/INFO]: Time elapsed: 2030 ms
-[18:00:19] [Server thread/INFO]: Done (3.390s)! For help, type "help"
-[18:02:37] [User Authenticator #1/INFO]: UUID of player OneTrueKill is 610ce283-3b23-4fc0-95f2-4b47281e950f
-[18:02:38] [Server thread/INFO]: OneTrueKill[/2620:9b:0:0:0:0:1930:a0f5:57069] logged in with entity id 299 at (382.0947941523757, 42.0, -240.9737502944827)
-[18:02:38] [Server thread/INFO]: OneTrueKill joined the game
-[18:03:23] [User Authenticator #2/INFO]: UUID of player jeroentrachet is 94e36829-b1e0-4b5e-96ec-d108422a5da9
-[18:03:23] [Server thread/INFO]: jeroentrachet[/2620:9b:0:0:0:0:1938:d269:50247] logged in with entity id 468 at (379.80747054262304, 48.0, -273.0476941336596)
-[18:03:23] [Server thread/INFO]: jeroentrachet joined the game
-[18:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
-[18:08:15] [Server thread/INFO]: <OneTrueKill> eje min infinity book nog?
-[18:08:29] [Server thread/INFO]: <jeroentrachet> nie dak weet kik ki in de chest
-[18:08:35] [Server thread/INFO]: <jeroentrachet> ke ier wel looting 3
-[18:08:46] [Server thread/INFO]: <jeroentrachet> ewe da nwodig?
-[18:08:48] [Server thread/INFO]: <OneTrueKill> gimme gimme
-[18:08:53] [Server thread/INFO]: <OneTrueKill> yes I need
-[18:09:03] [Server thread/INFO]: <jeroentrachet> mo kmoe lv30zin
-[18:13:42] [Server thread/INFO]: <OneTrueKill> disc?
-[18:13:49] [Server thread/INFO]: <jeroentrachet> k
-[18:20:40] [Server thread/INFO]: jeroentrachet has made the advancement [Local Brewery]
-[18:20:50] [Server thread/WARN]: OneTrueKill moved too quickly! 10.077375487398797,-0.23152379758701613,0.67818096017443
-[18:30:26] [Server thread/WARN]: jeroentrachet moved too quickly! 8.11720214402402,-6.535840625044557,0.14746335986527725
-[18:30:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2618ms or 52 ticks behind
-[18:31:08] [Server thread/INFO]: jeroentrachet fell from a high place
-[18:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
-[18:35:43] [Server thread/INFO]: jeroentrachet has made the advancement [Into Fire]
-[18:58:23] [Server thread/INFO]: [OneTrueKill: Set own game mode to Creative Mode]
-[18:58:40] [Server thread/INFO]: [OneTrueKill: Set own game mode to Survival Mode]
-[18:58:42] [Server thread/INFO]: OneTrueKill has made the advancement [Spooky Scary Skeleton]
-[18:59:23] [Server thread/INFO]: jeroentrachet withered away whilst fighting Wither Skeleton
-[18:59:34] [Server thread/INFO]: [OneTrueKill: Set own game mode to Creative Mode]
-[19:00:05] [Server thread/INFO]: jeroentrachet lost connection: Disconnected
-[19:00:05] [Server thread/INFO]: jeroentrachet left the game
-[19:00:31] [Server thread/WARN]: OneTrueKill moved too quickly! -2.9024778257675052,1.0297440409183523,9.596791956067989
-[19:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
-[19:02:57] [Server thread/INFO]: [OneTrueKill: Set own game mode to Survival Mode]
-[19:04:59] [Server thread/INFO]: [OneTrueKill: Set own game mode to Creative Mode]
-[19:05:10] [Server thread/INFO]: [OneTrueKill: Set own game mode to Survival Mode]
-[19:07:13] [Server thread/INFO]: [OneTrueKill: Set own game mode to Creative Mode]
-[19:07:46] [Server thread/INFO]: [OneTrueKill: Set own game mode to Survival Mode]
-[19:08:31] [Server thread/INFO]: [OneTrueKill: Set own game mode to Creative Mode]
-[19:09:22] [Server thread/INFO]: [OneTrueKill: Set the time to 0]
-[19:09:29] [Server thread/INFO]: [OneTrueKill: Set the weather to clear]
-[19:10:01] [Server thread/INFO]: [OneTrueKill: Set the time to 800]
-[19:17:09] [Server thread/INFO]: [OneTrueKill: Set own game mode to Survival Mode]
-[19:22:12] [Server thread/INFO]: [OneTrueKill: Made OneTrueKill no longer a server operator]
-[19:30:59] [User Authenticator #3/INFO]: UUID of player GodofThunderr is 6df934b3-633e-4e9e-a5f2-795ec8e5482f
-[19:30:59] [Server thread/INFO]: GodofThunderr[/25.68.132.173:49920] logged in with entity id 15549 at (322.6905202834289, 93.5, -119.62303889766203)
-[19:30:59] [Server thread/INFO]: GodofThunderr joined the game
-[19:36:03] [Server thread/WARN]: GodofThunderr moved too quickly! -8.83714470793359,0.12129684053920187,4.823869106082967
-[19:43:44] [Server thread/INFO]: GodofThunderr fell from a high place
-[20:02:13] [Server thread/WARN]: GodofThunderr moved too quickly! -9.856231148451911,0.49520087700592086,1.722413136332861
-[20:02:29] [Server thread/WARN]: GodofThunderr moved too quickly! -0.4544529185002375,1.1767592750642422,10.149428282890653
-[20:02:29] [Server thread/WARN]: OneTrueKill moved too quickly! -0.7450084773324193,0.7967356006687041,-10.03751796511257
-[20:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[20:22:47] [Server thread/INFO]: GodofThunderr has made the advancement [Ol' Betsy]
-[21:05:35] [Server thread/WARN]: GodofThunderr moved too quickly! 2.415905907383319,0.0,-9.804421868351156
-[21:09:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35689, l='world', x=250.49, y=60.00, z=-120.18]
-[21:09:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35689, l='world', x=250.49, y=60.00, z=-120.18]
-[21:16:04] [Server thread/WARN]: OneTrueKill moved wrongly!
-[21:28:37] [Server thread/INFO]: GodofThunderr has made the advancement [Best Friends Forever]
-[21:39:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[21:39:34] [Server thread/WARN]: OneTrueKill moved too quickly! 8.673622801255362,-1.4199999868869781,-5.247199790561375
-[21:40:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@2fd2e665[id=<null>,name=Walloonator,properties={},legacy=false] (/2620:9b:0:0:0:0:191f:acb6:54704) lost connection: Disconnected
-[21:40:18] [User Authenticator #4/INFO]: UUID of player Walloonator is 93b3b92f-d98f-43ae-a694-6b9468d7ecb6
-[21:40:18] [Server thread/INFO]: Walloonator[/2620:9b:0:0:0:0:191f:acb6:54716] logged in with entity id 41591 at (285.29072281047036, 64.0, -113.68725683456525)
-[21:40:18] [Server thread/INFO]: Walloonator joined the game
-[21:40:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[21:40:39] [Server thread/WARN]: OneTrueKill moved too quickly! -5.976274515358227,-0.20326439933128881,-8.141435542029114
-[22:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
-[22:05:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3252ms or 65 ticks behind
-[22:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
-[22:15:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
-[22:19:54] [Server thread/INFO]: GodofThunderr lost connection: Disconnected
-[22:19:54] [Server thread/INFO]: GodofThunderr left the game
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 4.537600797528668,0.0,-9.271039900991127
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 4.716860642175291,0.0,-9.627724051187215
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 4.8949736172322105,0.0,-9.985050398465319
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 5.0719673310250215,0.0,-10.342994833302328
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 5.247873511657261,0.0,-10.701532267114999
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 5.422731111706611,0.0,-11.06063518416886
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 5.59657861948439,0.0,-11.420277110393727
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 5.769461110870665,0.0,-11.78042937625105
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 5.941422616813725,0.0,-12.141064525128058
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 6.112506233411267,0.0,-12.502156203219783
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 6.282757722756287,0.0,-12.863677506980821
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 6.45222525937595,0.0,-13.225601060448753
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 6.620952183579789,0.0,-13.587902191728972
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 6.788980995967634,0.0,-13.950557116596428
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 6.956353445125899,0.0,-14.3135428497244
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 7.123110602828987,0.0,-14.676837135973074
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 7.28929293730836,0.0,-15.040418388543912
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 7.45493686438347,0.0,-15.404267168145452
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 7.6200786656517465,0.0,-15.768364425968684
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 7.784750990824733,0.0,-16.132693010634284
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 7.94898673572817,0.0,-16.497235936182733
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 8.112815502879101,0.0,-16.861977915248644
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 8.276267447490937,0.0,-17.22690364693426
-[22:20:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 4.407445527958771,0.0,-9.407633257227644
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 4.569639256982299,0.0,-9.773167810741143
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 4.7315739654570805,0.0,-10.138826782264005
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 4.893268522096079,0.0,-10.504600788455718
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 5.054743425414557,0.0,-10.87047985321442
-[22:20:50] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 4.40713679245556,0.0,-9.407809350540902
-[22:20:51] [Server thread/WARN]: Boat (vehicle of Walloonator) moved too quickly! 4.4069017431981905,0.0,-9.407920452906637
-[22:25:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
-[22:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
-[22:35:58] [Server thread/WARN]: OneTrueKill moved too quickly! 9.96757795050496,1.4554677395850248,-0.2193607844168639
-[22:35:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[22:41:01] [Server thread/WARN]: Walloonator moved too quickly! -9.34654445297977,-1.0,3.6691232359826245
-[22:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
-[22:46:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
-[22:58:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72182, l='world', x=288.38, y=47.62, z=-86.63]
-[23:00:13] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
-[23:00:13] [Server thread/INFO]: OneTrueKill left the game
-[23:07:26] [Server thread/INFO]: Walloonator lost connection: Disconnected
-[23:07:26] [Server thread/INFO]: Walloonator left the game
-[23:07:41] [Server thread/INFO]: Stopping the server
-[23:07:41] [Server thread/INFO]: Stopping server
-[23:07:41] [Server thread/INFO]: Saving players
-[23:07:41] [Server thread/INFO]: Saving worlds
-[23:07:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:07:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:08:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:08:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:08:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:08:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:08:46] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[13:08:46] [Server thread/INFO]: Loading properties
+[13:08:46] [Server thread/INFO]: Default game type: SURVIVAL
+[13:08:46] [Server thread/INFO]: Generating keypair
+[13:08:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:08:46] [Server thread/INFO]: Using default channel type
+[13:08:49] [Server thread/INFO]: Preparing level "world"
+[13:08:49] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:08:50] [Server thread/INFO]: Loaded 6 recipes
+[13:08:50] [Server thread/INFO]: Loaded 811 advancements
+[13:08:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:08:51] [Server thread/INFO]: Preparing spawn area: 0%
+[13:08:51] [Server thread/INFO]: Preparing spawn area: 0%
+[13:08:51] [Server thread/INFO]: Preparing spawn area: 0%
+[13:08:52] [Server thread/INFO]: Preparing spawn area: 41%
+[13:08:52] [Server thread/INFO]: Time elapsed: 1776 ms
+[13:08:52] [Server thread/INFO]: Done (3.186s)! For help, type "help"
+[15:04:40] [User Authenticator #1/INFO]: UUID of player OneTrueKill is 610ce283-3b23-4fc0-95f2-4b47281e950f
+[15:04:40] [Server thread/INFO]: OneTrueKill[/2620:9b:0:0:0:0:1930:a0f5:59036] logged in with entity id 266 at (286.10227120685585, 47.0, -86.23676481575525)
+[15:04:41] [Server thread/INFO]: OneTrueKill joined the game
+[15:05:20] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
+[15:05:20] [Server thread/INFO]: OneTrueKill left the game
+[15:08:17] [User Authenticator #2/INFO]: UUID of player OneTrueKill is 610ce283-3b23-4fc0-95f2-4b47281e950f
+[15:08:17] [Server thread/INFO]: OneTrueKill[/2620:9b:0:0:0:0:1930:a0f5:59170] logged in with entity id 399 at (274.818458762201, 63.0, -88.29389404114933)
+[15:08:17] [Server thread/INFO]: OneTrueKill joined the game
+[15:19:22] [Server thread/INFO]: OneTrueKill has made the advancement [Ice Bucket Challenge]
+[15:28:40] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
+[15:28:40] [Server thread/INFO]: OneTrueKill left the game
+[18:35:49] [User Authenticator #3/INFO]: UUID of player OneTrueKill is 610ce283-3b23-4fc0-95f2-4b47281e950f
+[18:35:49] [Server thread/INFO]: OneTrueKill[/2620:9b:0:0:0:0:1930:a0f5:59922] logged in with entity id 3065 at (285.60207653572735, 63.0, -84.51002304520932)
+[18:35:49] [Server thread/INFO]: OneTrueKill joined the game
+[18:57:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5214, l='world', x=251.42, y=60.00, z=-120.23]
+[19:13:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[19:30:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9831, l='world', x=250.20, y=60.00, z=-120.77]
+[19:53:07] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
+[19:53:07] [Server thread/INFO]: OneTrueKill left the game
+[23:18:07] [Server thread/INFO]: Stopping the server
+[23:18:07] [Server thread/INFO]: Stopping server
+[23:18:07] [Server thread/INFO]: Saving players
+[23:18:07] [Server thread/INFO]: Saving worlds
+[23:18:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:18:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:18:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
