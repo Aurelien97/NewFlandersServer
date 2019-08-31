@@ -1,53 +1,76 @@
-[13:08:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:08:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:08:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:08:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:08:46] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[13:08:46] [Server thread/INFO]: Loading properties
-[13:08:46] [Server thread/INFO]: Default game type: SURVIVAL
-[13:08:46] [Server thread/INFO]: Generating keypair
-[13:08:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:08:46] [Server thread/INFO]: Using default channel type
-[13:08:49] [Server thread/INFO]: Preparing level "world"
-[13:08:49] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:08:50] [Server thread/INFO]: Loaded 6 recipes
-[13:08:50] [Server thread/INFO]: Loaded 811 advancements
-[13:08:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:08:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:08:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:08:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:08:52] [Server thread/INFO]: Preparing spawn area: 41%
-[13:08:52] [Server thread/INFO]: Time elapsed: 1776 ms
-[13:08:52] [Server thread/INFO]: Done (3.186s)! For help, type "help"
-[15:04:40] [User Authenticator #1/INFO]: UUID of player OneTrueKill is 610ce283-3b23-4fc0-95f2-4b47281e950f
-[15:04:40] [Server thread/INFO]: OneTrueKill[/2620:9b:0:0:0:0:1930:a0f5:59036] logged in with entity id 266 at (286.10227120685585, 47.0, -86.23676481575525)
-[15:04:41] [Server thread/INFO]: OneTrueKill joined the game
-[15:05:20] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
-[15:05:20] [Server thread/INFO]: OneTrueKill left the game
-[15:08:17] [User Authenticator #2/INFO]: UUID of player OneTrueKill is 610ce283-3b23-4fc0-95f2-4b47281e950f
-[15:08:17] [Server thread/INFO]: OneTrueKill[/2620:9b:0:0:0:0:1930:a0f5:59170] logged in with entity id 399 at (274.818458762201, 63.0, -88.29389404114933)
-[15:08:17] [Server thread/INFO]: OneTrueKill joined the game
-[15:19:22] [Server thread/INFO]: OneTrueKill has made the advancement [Ice Bucket Challenge]
-[15:28:40] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
-[15:28:40] [Server thread/INFO]: OneTrueKill left the game
-[18:35:49] [User Authenticator #3/INFO]: UUID of player OneTrueKill is 610ce283-3b23-4fc0-95f2-4b47281e950f
-[18:35:49] [Server thread/INFO]: OneTrueKill[/2620:9b:0:0:0:0:1930:a0f5:59922] logged in with entity id 3065 at (285.60207653572735, 63.0, -84.51002304520932)
-[18:35:49] [Server thread/INFO]: OneTrueKill joined the game
-[18:57:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5214, l='world', x=251.42, y=60.00, z=-120.23]
-[19:13:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[19:30:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9831, l='world', x=250.20, y=60.00, z=-120.77]
-[19:53:07] [Server thread/INFO]: OneTrueKill lost connection: Disconnected
-[19:53:07] [Server thread/INFO]: OneTrueKill left the game
-[23:18:07] [Server thread/INFO]: Stopping the server
-[23:18:07] [Server thread/INFO]: Stopping server
-[23:18:07] [Server thread/INFO]: Saving players
-[23:18:07] [Server thread/INFO]: Saving worlds
-[23:18:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:18:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:18:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:18:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:53:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:53:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:53:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:53:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:53:13] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[13:53:13] [Server thread/INFO]: Loading properties
+[13:53:13] [Server thread/INFO]: Default game type: SURVIVAL
+[13:53:13] [Server thread/INFO]: Generating keypair
+[13:53:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:53:14] [Server thread/INFO]: Using default channel type
+[13:53:16] [Server thread/INFO]: Preparing level "world"
+[13:53:17] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:53:18] [Server thread/INFO]: Loaded 6 recipes
+[13:53:18] [Server thread/INFO]: Loaded 811 advancements
+[13:53:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:53:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:20] [Server thread/INFO]: Preparing spawn area: 25%
+[13:53:21] [Server thread/INFO]: Time elapsed: 1740 ms
+[13:53:21] [Server thread/INFO]: Done (4.283s)! For help, type "help"
+[14:12:57] [User Authenticator #1/INFO]: UUID of player GodofThunderr is 6df934b3-633e-4e9e-a5f2-795ec8e5482f
+[14:12:57] [Server thread/INFO]: GodofThunderr[/25.68.132.173:60677] logged in with entity id 298 at (323.0848662873833, 74.0, -125.31669532343716)
+[14:12:57] [Server thread/INFO]: GodofThunderr joined the game
+[14:16:40] [Server thread/INFO]: GodofThunderr has made the advancement [Spooky Scary Skeleton]
+[14:18:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1121, l='world', x=251.13, y=60.00, z=-121.17]
+[14:29:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2887, l='world', x=251.80, y=60.00, z=-120.28]
+[14:35:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3871, l='world', x=250.20, y=60.00, z=-119.53]
+[14:52:16] [Server thread/INFO]: GodofThunderr lost connection: Disconnected
+[14:52:16] [Server thread/INFO]: GodofThunderr left the game
+[20:32:00] [User Authenticator #2/INFO]: UUID of player Walloonator is 93b3b92f-d98f-43ae-a694-6b9468d7ecb6
+[20:32:01] [Server thread/INFO]: Walloonator[/2620:9b:0:0:0:0:191f:acb6:51754] logged in with entity id 6554 at (263.8335733277613, 64.0, -106.45143972077055)
+[20:32:01] [Server thread/INFO]: Walloonator joined the game
+[20:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:32:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4859ms or 97 ticks behind
+[20:48:08] [Server thread/INFO]: Walloonator lost connection: Disconnected
+[20:48:08] [Server thread/INFO]: Walloonator left the game
+[20:54:34] [User Authenticator #3/INFO]: UUID of player Walloonator is 93b3b92f-d98f-43ae-a694-6b9468d7ecb6
+[20:54:34] [Server thread/INFO]: Walloonator[/2620:9b:0:0:0:0:191f:acb6:52204] logged in with entity id 9077 at (219.62572551803538, 64.0, -41.9494283773826)
+[20:54:34] [Server thread/INFO]: Walloonator joined the game
+[20:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[21:07:43] [User Authenticator #4/INFO]: UUID of player Fretbeirke is c8981680-7d58-440b-adc4-c887d9e9ef86
+[21:07:43] [Server thread/INFO]: Fretbeirke[/25.46.230.124:54562] logged in with entity id 11286 at (217.5, 69.0, -0.5)
+[21:07:43] [Server thread/INFO]: Fretbeirke joined the game
+[21:09:03] [Server thread/INFO]: Fretbeirke has made the advancement [Acquire Hardware]
+[21:09:03] [Server thread/INFO]: Fretbeirke has made the advancement [Diamonds!]
+[21:10:51] [Server thread/INFO]: Fretbeirke has made the advancement [Suit Up]
+[21:16:57] [Server thread/INFO]: Fretbeirke has made the advancement [Monster Hunter]
+[21:18:19] [Server thread/INFO]: Fretbeirke has made the advancement [Stone Age]
+[21:20:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/13974, l='world', x=250.96, y=60.00, z=-120.03]
+[21:23:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[21:34:53] [Server thread/INFO]: Fretbeirke lost connection: Disconnected
+[21:34:53] [Server thread/INFO]: Fretbeirke left the game
+[21:35:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17566, l='world', x=251.03, y=60.00, z=-120.74]
+[21:35:50] [User Authenticator #5/INFO]: UUID of player Fretbeirke is c8981680-7d58-440b-adc4-c887d9e9ef86
+[21:35:50] [Server thread/INFO]: Fretbeirke[/25.46.230.124:54594] logged in with entity id 17582 at (65.37030529202865, 80.0, -45.98605725956792)
+[21:35:50] [Server thread/INFO]: Fretbeirke joined the game
+[21:38:34] [Server thread/WARN]: Fretbeirke moved too quickly! -10.06180170322375,1.0,1.8055439548552847
+[21:38:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2775ms or 55 ticks behind
+[21:42:14] [Server thread/INFO]: Walloonator lost connection: Disconnected
+[21:42:14] [Server thread/INFO]: Walloonator left the game
+[21:42:16] [Server thread/INFO]: Fretbeirke lost connection: Disconnected
+[21:42:16] [Server thread/INFO]: Fretbeirke left the game
+[21:42:26] [Server thread/INFO]: Stopping the server
+[21:42:26] [Server thread/INFO]: Stopping server
+[21:42:26] [Server thread/INFO]: Saving players
+[21:42:26] [Server thread/INFO]: Saving worlds
+[21:42:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:42:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:42:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:42:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:42:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
