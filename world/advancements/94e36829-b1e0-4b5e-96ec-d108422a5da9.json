@@ -724,6 +724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-09-01 15:28:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2019-08-24 19:48:59 +0200"
@@ -1273,6 +1279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-09-01 15:28:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-08-24 17:55:14 +0200"
@@ -1687,6 +1699,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2019-09-01 15:22:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2019-08-24 20:10:10 +0200"
@@ -1877,6 +1895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-09-01 15:28:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2019-08-24 18:00:16 +0200"
@@ -1959,6 +1983,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-08-24 18:01:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-09-01 15:23:08 +0200"
     },
     "done": true
   },
@@ -2259,6 +2289,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-24 17:50:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-09-01 15:27:36 +0200"
     },
     "done": true
   },
@@ -2625,6 +2661,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-08-24 17:55:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2019-09-01 15:28:00 +0200"
     },
     "done": true
   },

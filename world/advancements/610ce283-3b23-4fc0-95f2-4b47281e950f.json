@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2019-09-01 22:24:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2019-08-29 18:14:16 +0200"
@@ -638,7 +644,9 @@
       "minecraft:blaze": "2019-08-25 21:26:24 +0200",
       "minecraft:skeleton": "2019-08-24 18:04:30 +0200",
       "minecraft:zombie_pigman": "2019-08-29 18:45:48 +0200",
+      "minecraft:ravager": "2019-09-01 19:43:15 +0200",
       "minecraft:ghast": "2019-08-24 23:36:41 +0200",
+      "minecraft:vindicator": "2019-09-01 19:42:43 +0200",
       "minecraft:magma_cube": "2019-08-24 23:34:11 +0200",
       "minecraft:spider": "2019-08-24 18:41:52 +0200",
       "minecraft:creeper": "2019-08-26 18:27:59 +0200",
@@ -892,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2019-09-01 20:03:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-08-24 19:01:53 +0200"
@@ -952,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2019-09-01 15:37:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-08-30 18:47:22 +0200"
@@ -991,6 +1011,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2019-08-28 21:37:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-09-01 22:24:00 +0200"
     },
     "done": true
   },
@@ -1093,6 +1119,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-08-24 18:26:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2019-09-01 15:22:37 +0200"
     },
     "done": true
   },
@@ -1386,6 +1418,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-08-30 18:47:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2019-09-01 20:03:41 +0200"
     },
     "done": true
   },
@@ -1683,6 +1721,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2019-09-01 19:43:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-08-24 20:05:51 +0200"
@@ -1839,6 +1883,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2019-09-01 15:22:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-08-27 17:24:52 +0200"
@@ -1883,6 +1933,7 @@
       "salmon": "2019-08-28 11:57:54 +0200",
       "beetroot": "2019-08-27 11:27:31 +0200",
       "cooked_chicken": "2019-08-24 19:00:32 +0200",
+      "cod": "2019-09-01 19:09:02 +0200",
       "cooked_salmon": "2019-08-24 19:43:27 +0200",
       "carrot": "2019-08-27 00:32:27 +0200"
     },
@@ -2020,6 +2071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2019-09-01 20:03:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-24 18:07:25 +0200"
@@ -2109,6 +2166,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-08-24 18:20:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-09-01 15:24:00 +0200"
     },
     "done": true
   },
@@ -2820,6 +2883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2019-09-01 20:03:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-08-26 18:01:35 +0200"
@@ -2865,6 +2934,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-08-26 17:56:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2019-09-01 22:08:20 +0200"
     },
     "done": true
   },

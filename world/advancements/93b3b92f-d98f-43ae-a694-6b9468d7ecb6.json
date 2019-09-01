@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-09-01 14:49:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2019-08-25 22:37:42 +0200"
@@ -287,6 +293,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-09-01 14:49:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2019-09-01 14:50:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wooden_fences": "2019-08-25 21:08:35 +0200"
@@ -345,6 +363,12 @@
     "criteria": {
       "iron_chestplate": "2019-08-25 22:05:26 +0200",
       "iron_leggings": "2019-08-25 22:05:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-09-01 14:38:48 +0200"
     },
     "done": true
   },
@@ -459,9 +483,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2019-08-25 23:10:57 +0200",
+      "minecraft:pillager": "2019-09-01 19:41:41 +0200",
       "minecraft:skeleton": "2019-08-24 17:56:31 +0200",
       "minecraft:zombie_pigman": "2019-08-25 23:12:49 +0200",
       "minecraft:ghast": "2019-08-29 11:50:25 +0200",
+      "minecraft:vindicator": "2019-09-01 19:41:51 +0200",
       "minecraft:magma_cube": "2019-08-25 22:59:30 +0200",
       "minecraft:spider": "2019-08-24 18:23:08 +0200",
       "minecraft:creeper": "2019-08-24 19:22:17 +0200",
@@ -487,6 +513,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-08-24 18:22:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-09-01 21:14:40 +0200"
     },
     "done": true
   },
@@ -754,6 +786,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-24 17:56:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-09-01 14:50:17 +0200"
     },
     "done": true
   },
@@ -1215,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-09-01 14:50:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-26 16:13:16 +0200"
@@ -1266,6 +1310,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-24 23:40:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2019-09-01 19:43:17 +0200"
     },
     "done": true
   },
@@ -1365,6 +1415,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2019-09-01 15:22:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2019-08-27 23:41:43 +0200"
@@ -1394,6 +1450,7 @@
       "cooked_porkchop": "2019-08-24 18:19:45 +0200",
       "cooked_mutton": "2019-08-25 22:35:56 +0200",
       "sweet_berries": "2019-08-24 19:18:08 +0200",
+      "cooked_beef": "2019-09-01 22:07:23 +0200",
       "tropical_fish": "2019-08-24 23:19:13 +0200",
       "potato": "2019-08-29 13:45:53 +0200",
       "cooked_cod": "2019-08-24 23:12:13 +0200",
