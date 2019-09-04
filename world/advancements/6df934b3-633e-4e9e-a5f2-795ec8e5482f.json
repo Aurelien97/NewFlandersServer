@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-09-03 20:52:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-24 18:38:29 +0200"
@@ -512,6 +518,7 @@
       "minecraft:spider": "2019-08-24 17:59:14 +0200",
       "minecraft:creeper": "2019-08-24 21:05:42 +0200",
       "minecraft:phantom": "2019-08-24 21:43:36 +0200",
+      "minecraft:enderman": "2019-09-03 21:04:49 +0200",
       "minecraft:zombie": "2019-08-24 18:50:12 +0200",
       "minecraft:zombie_villager": "2019-08-25 22:17:27 +0200"
     },
@@ -790,6 +797,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2019-08-24 17:59:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2019-09-03 21:34:28 +0200"
     },
     "done": true
   },
@@ -2141,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-09-03 21:34:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-08-24 17:55:17 +0200"
@@ -2180,6 +2199,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-08-24 20:24:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-09-03 21:15:13 +0200"
     },
     "done": true
   },
