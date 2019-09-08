@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2019-09-08 20:18:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-08-26 21:44:25 +0200"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-09-08 20:02:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-09-03 20:09:03 +0200"
@@ -283,7 +295,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-09-08 19:47:44 +0200",
+      "chicken": "2019-09-08 20:34:55 +0200",
       "cooked_beef": "2019-09-03 20:21:51 +0200",
+      "cooked_cod": "2019-09-08 21:04:03 +0200",
       "bread": "2019-08-26 22:14:10 +0200",
       "cooked_chicken": "2019-09-01 19:58:00 +0200"
     },
@@ -775,6 +790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-09-08 20:21:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-01 19:13:48 +0200"
@@ -786,7 +807,10 @@
       "minecraft:skeleton": "2019-08-26 21:51:15 +0200",
       "minecraft:spider": "2019-09-01 20:03:23 +0200",
       "minecraft:creeper": "2019-09-01 19:27:43 +0200",
-      "minecraft:phantom": "2019-09-01 20:09:12 +0200"
+      "minecraft:phantom": "2019-09-01 20:09:12 +0200",
+      "minecraft:enderman": "2019-09-08 21:05:16 +0200",
+      "minecraft:silverfish": "2019-09-08 20:56:17 +0200",
+      "minecraft:zombie": "2019-09-08 19:49:22 +0200"
     },
     "done": false
   },
@@ -802,6 +826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-09-08 21:05:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-03 20:28:59 +0200"
@@ -811,6 +841,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-08-26 21:47:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-09-08 20:38:47 +0200"
     },
     "done": true
   },
@@ -835,6 +871,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-03 20:28:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-09-08 21:05:30 +0200"
     },
     "done": true
   },
@@ -886,6 +928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-09-08 20:34:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-01 19:13:48 +0200"
@@ -916,9 +964,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2019-09-08 20:34:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-09-03 20:16:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-09-08 19:50:30 +0200"
     },
     "done": true
   },
@@ -931,6 +991,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2019-09-01 19:38:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-09-08 20:55:24 +0200"
     },
     "done": true
   },
@@ -997,6 +1063,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-26 22:11:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-09-08 20:56:51 +0200"
     },
     "done": true
   },
@@ -1174,6 +1246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-09-08 20:21:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-09-01 19:25:48 +0200"
@@ -1336,6 +1414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2019-09-08 20:18:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-26 21:54:21 +0200"
@@ -1357,9 +1441,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-08-25 21:28:08 +0200",
+      "minecraft:mountains": "2019-09-08 20:50:59 +0200",
       "minecraft:taiga": "2019-08-26 21:45:52 +0200",
       "minecraft:birch_forest": "2019-08-26 21:44:26 +0200",
-      "minecraft:river": "2019-08-26 21:44:24 +0200"
+      "minecraft:dark_forest": "2019-09-08 20:49:36 +0200",
+      "minecraft:river": "2019-08-26 21:44:24 +0200",
+      "minecraft:wooded_mountains": "2019-09-08 20:51:55 +0200",
+      "minecraft:wooded_hills": "2019-09-08 20:44:55 +0200",
+      "minecraft:swamp": "2019-09-08 20:47:34 +0200",
+      "minecraft:plains": "2019-09-08 19:56:33 +0200"
     },
     "done": false
   },
@@ -1396,6 +1486,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2019-09-03 20:03:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-09-08 19:50:30 +0200"
     },
     "done": true
   },
@@ -1519,9 +1615,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-09-08 20:34:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-03 20:28:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-09-08 20:56:51 +0200"
     },
     "done": true
   },
